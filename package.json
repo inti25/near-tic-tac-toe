@@ -1,7 +1,11 @@
 {
   "name": "near-tic-tac-toe",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inti25/near-tic-tac-toe.git"
+  },
   "version": "1.0.0",
-  "description": "demo",
+  "description": "near-tic-tac-toe example",
   "dependencies": {
     "jsonview": "^1.2.0",
     "near-api-js": "^0.44.2"
