@@ -1,15 +1,17 @@
 {
-  "name": "near-tic-tac-toe",
+  "name": "inti25-near-example",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inti25/near-tic-tac-toe.git"
+    "url": "https://github.com/inti25/near-tic-tac-toe.git"
   },
-  "version": "1.0.1",
+  "homepage": "https://github.com/inti25/near-tic-tac-toe",
+  "version": "1.0.0",
   "description": "near-tic-tac-toe example",
   "dependencies": {
     "jsonview": "^1.2.0",
     "near-api-js": "^0.44.2",
     "inti25-web-tools": "1.0.0",
+    "inti25-tools": "^1.0.0",
     "tea-blockchain-vntd": "0.1.0"
   },
   "devDependencies": {
